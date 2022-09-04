@@ -21,3 +21,5 @@ LyX
 ConEmu/Cmder
 
 Calibre：E-book management
+
+C++编辑器：Code::Blocks
