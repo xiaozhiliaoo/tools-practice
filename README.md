@@ -23,3 +23,8 @@ ConEmu/Cmder
 Calibre：E-book management
 
 C++编辑器：Code::Blocks
+
+SmarTTY
+
+[Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+
