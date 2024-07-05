@@ -1,6 +1,8 @@
 # 开发工具
 
-brew
+brew:https://brew.sh/
+
+git:brew install git
 
 iterm2
 
@@ -8,7 +10,7 @@ mysql，mysql workbench
 
 kafka，elk(es)，redis，MongoDB，Zookeeper
 
-java14，maven，git，gradle
+java14，maven，gradle
 
 golang-go1.19
 
