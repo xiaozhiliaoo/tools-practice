@@ -127,3 +127,13 @@ echo "email:`git config --global user.email`"
 /Users/lili/Desktop/software/apache-maven-3.9.0
 /Users/lili/Desktop/投资
 /Users/lili/Desktop/国学
+
+## git
+```bash
+git config --global user.name "lili"
+git config --global user.email "772654204@qq.com"
+ssh-keygen -t rsa -C "772654204@qq.com"
+cat ~/.ssh/id_rsa.pub
+配置到github上面去
+ssh git@github.com
+```
