@@ -1,5 +1,7 @@
 # 开发工具
 
+brew
+
 iterm2
 
 mysql，mysql workbench
