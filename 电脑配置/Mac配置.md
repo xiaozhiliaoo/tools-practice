@@ -24,6 +24,8 @@ sublime
 
 DevToys
 
+github必下载项目：blog,reading-note,interviews
+
 # 辅助工具
 
 DeepL
