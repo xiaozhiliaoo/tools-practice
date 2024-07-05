@@ -121,12 +121,14 @@ echo "email:`git config --global user.email`"
 
 ## 目录结构
 
+```text
 /Users/lili/Desktop/gitspace/github
 /Users/lili/Desktop/gitspace/python-workspace
 /Users/lili/Desktop/software
 /Users/lili/Desktop/software/apache-maven-3.9.0
 /Users/lili/Desktop/投资
 /Users/lili/Desktop/国学
+```
 
 ## git
 ```bash
