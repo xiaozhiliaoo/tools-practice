@@ -1,5 +1,9 @@
 iterm2
 
+DeepL
+
+滴答清单
+
 whiteboard白板
 
 parallels desktop
@@ -55,3 +59,28 @@ Alfred
 Postman
 
 InsomniaX
+
+zlibrary
+
+PasteEasy
+
+DevToys
+
+Kap mac下的录屏小软件
+
+Typora
+
+## .bash_profile
+
+```bash
+JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-14.0.2.jdk/Contents/Home
+CLASSPATH=$JAVA_HOME/lib/tools.jar:$JAVA_HOME/lib/dt.jar:.
+export M2_HOME=/Users/lili/Desktop/software/apache-maven-3.9.0
+export JAVA_HOME
+export CLASSPATH
+export GOROOT=/usr/local/go
+export GOPATH=$HOME/go
+export GOBIN=$GOPATH/bin
+export PATH=$PATH:$GOROOT/bin:$GOPATH:$GOBIN:$JAVA_HOME/bin:$M2_HOME/bin
+export PATH=~/go/bin:$PATH
+```
