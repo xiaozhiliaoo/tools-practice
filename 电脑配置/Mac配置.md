@@ -80,6 +80,8 @@ Kap mac下的录屏小软件
 
 Typora
 
+monoproxy 1q2w3e4r 账号77
+
 # 常用脚本
 
 ## .bash_profile
@@ -130,6 +132,8 @@ echo "email:`git config --global user.email`"
 /Users/lili/Desktop/software/apache-maven-3.9.0
 /Users/lili/Desktop/投资
 /Users/lili/Desktop/国学
+/Users/lili/Desktop/技术
+/Users/lili/Desktop/其它
 ```
 
 ## git
