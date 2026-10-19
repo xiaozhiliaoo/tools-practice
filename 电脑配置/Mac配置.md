@@ -6,7 +6,7 @@ git:brew install git
 
 iterm2
 
-mysql，mysql workbench
+mysql，mysql workbench，navicat premium lite
 
 kafka，elk(es)，redis，MongoDB，Zookeeper
 
@@ -24,7 +24,7 @@ sublime
 
 DevToys
 
-github必下载项目：blog,reading-note,interviews
+github必下载项目：blog, reading-note, interviews
 
 # 辅助工具
 
@@ -80,7 +80,15 @@ Kap mac下的录屏小软件
 
 Typora
 
-monoproxy 1q2w3e4r 账号77
+monoproxy 772654204lili 账号77  访问地址： https://mymonocloud.com/
+
+maccy
+
+jdk17
+
+Rust 1.98.1
+
+
 
 # 常用脚本
 
