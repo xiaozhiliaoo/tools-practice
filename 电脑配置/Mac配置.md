@@ -6,6 +6,8 @@ git:brew install git
 
 iterm2
 
+switchhosts
+
 mysql，mysql workbench，navicat premium lite
 
 kafka，elk(es)，redis，MongoDB，Zookeeper
