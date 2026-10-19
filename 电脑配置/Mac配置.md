@@ -14,7 +14,7 @@ java14，maven，gradle
 
 golang-go1.19
 
-idea，pycharm，vscode
+idea（github copilot。lombok，mybatisx，GenerateAllSetter），pycharm，vscode(插件：rust-analyzer，project manager，dev containers，remote ssh)
 
 rust 【mdbook】
 
