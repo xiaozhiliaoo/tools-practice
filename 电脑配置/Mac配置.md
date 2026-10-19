@@ -84,7 +84,7 @@ monoproxy 772654204lili 账号77  访问地址： https://mymonocloud.com/
 
 maccy
 
-jdk17
+jdk17:https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
 
 Rust 1.98.1
 
