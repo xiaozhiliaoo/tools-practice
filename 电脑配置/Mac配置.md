@@ -2,6 +2,8 @@
 
 brew:https://brew.sh/
 
+xcode-select
+
 git:brew install git
 
 iterm2
